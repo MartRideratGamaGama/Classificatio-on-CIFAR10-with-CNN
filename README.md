@@ -1,1 +1,1 @@
-# Classificatio-on-CIFAR10-with-CNN
+# Classification-on-CIFAR10-with-CNN
